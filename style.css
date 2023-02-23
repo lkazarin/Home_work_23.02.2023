@@ -20,10 +20,11 @@
     left: 50px;
     top: 50px;
     z-index: 1;
+    transition: 1s;
 }
 
 #green:hover {
-    transition: 1s;
+    
     transform: scale(1.5) rotate(-45deg);
 }
 
